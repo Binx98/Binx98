@@ -2,10 +2,6 @@
 
 > Java Backend Engineer | AI Agent Explorer
 
-Passionate about backend development, distributed systems, cloud-native technologies, and AI Agent applications.
-
----
-
 ## 🚀 About Me
 
 * 💻 Java Backend Engineer
@@ -13,8 +9,6 @@ Passionate about backend development, distributed systems, cloud-native technolo
 * ☁️ Interested in Kubernetes and Cloud Native
 * 📚 Open source enthusiast
 * 🌱 Always learning new technologies
-
----
 
 ## 📖 Currently Learning
 
@@ -25,24 +19,11 @@ Passionate about backend development, distributed systems, cloud-native technolo
 * Distributed Architecture
 * AI Engineering
 
----
-
 ## ✍️ Blog
 
 I enjoy sharing my learning and development experiences.
 
 Blog:https://xuzhibin.blog.csdn.net/
-
----
-
-## 🎯 Goals
-
-* Build practical AI Agent applications.
-* Contribute to open source.
-* Improve backend architecture skills.
-* Combine AI with backend engineering.
-
----
 
 ## 📫 Contact
 
