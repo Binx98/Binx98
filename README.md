@@ -10,15 +10,6 @@
 * 📚 Open source enthusiast
 * 🌱 Always learning new technologies
 
-## 📖 Currently Learning
-
-* AI Agent
-* Multi-Agent Systems
-* Large Language Models
-* Kubernetes
-* Distributed Architecture
-* AI Engineering
-
 ## ✍️ Blog
 
 I enjoy sharing my learning and development experiences.
