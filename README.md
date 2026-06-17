@@ -1,4 +1,4 @@
-# Bin Xu 👋
+# Binx Xu 👋
 
 > Java Backend Engineer | AI Agent Explorer
 
@@ -31,9 +31,7 @@ Passionate about backend development, distributed systems, cloud-native technolo
 
 I enjoy sharing my learning and development experiences.
 
-Blog:
-
-https://xuzhibin.blog.csdn.net/
+Blog:https://xuzhibin.blog.csdn.net/
 
 ---
 
