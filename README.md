@@ -1,7 +1,4 @@
 # Binx Xu 👋
-
-> Java Backend Engineer | AI Agent Explorer
-
 ## 🚀 About Me
 
 * 💻 Java Backend Engineer
