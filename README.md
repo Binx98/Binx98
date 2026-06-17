@@ -1,16 +1,69 @@
-## Hi there 👋
+# Bin Xu 👋
 
-<!--
-**Binx98/Binx98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Java Backend Engineer | AI Agent Explorer
 
-Here are some ideas to get you started:
+Passionate about backend development, distributed systems, cloud-native technologies, and AI Agent applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 💻 Java Backend Engineer
+* 🤖 Exploring AI Agent and LLM applications
+* ☁️ Interested in Kubernetes and Cloud Native
+* 📚 Open source enthusiast
+* 🌱 Always learning new technologies
+
+---
+
+## 📂 Featured Projects
+
+### QuickChat
+
+A real-time chat system built with Spring Boot.
+
+### Mini-Link
+
+A high-performance URL shortener service.
+
+### AI Agent
+
+Building practical AI Agent applications and workflows.
+
+---
+
+## 📖 Currently Learning
+
+* AI Agent
+* Multi-Agent Systems
+* Large Language Models
+* Kubernetes
+* Distributed Architecture
+* AI Engineering
+
+---
+
+## ✍️ Blog
+
+I enjoy sharing my learning and development experiences.
+
+Blog:
+
+https://xuzhibin.blog.csdn.net/
+
+---
+
+## 🎯 Goals
+
+* Build practical AI Agent applications.
+* Contribute to open source.
+* Improve backend architecture skills.
+* Combine AI with backend engineering.
+
+---
+
+## 📫 Contact
+
+GitHub: @Binx98
+WeChat: Binx1998
+Gmail: binx19980707@gmail.com
