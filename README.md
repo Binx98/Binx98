@@ -1,24 +1,23 @@
-# Binx Xu 👋
-## 🚀 About Me
+# 徐志斌 👋
 
-* 💻 Java Backend Engineer
-* 🤖 Exploring AI Agent and LLM applications
-* ☁️ Interested in Kubernetes and Cloud Native
-* 📚 Open source enthusiast
-* 🌱 Always learning new technologies
+## 🚀 关于我
 
-## 🌟 Open Source
+* 💻 Java 后端开发工程师
+* 🤖 专注于 AI Agent 与大语言模型（LLM）应用探索
+* ☁️ 热衷于 Kubernetes 与云原生技术
+* 📚 开源爱好者，积极参与开源社区
+* 🌱 持续学习，不断成长
 
-* Contributor to [MaxKB](https://github.com/1Panel-dev/MaxKB)
+## 🌟 开源
 
-## ✍️ Blog
+* [MaxKB](https://github.com/1Panel-dev/MaxKB) 
 
-I enjoy sharing my learning and development experiences.
+## ✍️ 技术博客
 
-Blog:https://xuzhibin.blog.csdn.net/
+博客：https://xuzhibin.blog.csdn.net/
 
-## 📫 Contact
+## 📫 联系我
 
-GitHub: @Binx98
-WeChat: Binx1998
-Gmail: binx19980707@gmail.com
+* GitHub：@Binx98
+* 微信：Binx1998
+* 邮箱：[binx19980707@gmail.com](mailto:binx19980707@gmail.com)
