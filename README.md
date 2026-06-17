@@ -16,22 +16,6 @@ Passionate about backend development, distributed systems, cloud-native technolo
 
 ---
 
-## 📂 Featured Projects
-
-### QuickChat
-
-A real-time chat system built with Spring Boot.
-
-### Mini-Link
-
-A high-performance URL shortener service.
-
-### AI Agent
-
-Building practical AI Agent applications and workflows.
-
----
-
 ## 📖 Currently Learning
 
 * AI Agent
