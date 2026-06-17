@@ -10,6 +10,10 @@
 * 📚 Open source enthusiast
 * 🌱 Always learning new technologies
 
+## 🌟 Open Source
+
+* Contributor to [MaxKB](https://github.com/1Panel-dev/MaxKB)
+
 ## ✍️ Blog
 
 I enjoy sharing my learning and development experiences.
