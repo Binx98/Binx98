@@ -1,17 +1,13 @@
 ### 👋 关于我
 
 * 🤖 专注于 AI Agent 与大语言模型（LLM）应用探索
-* ☁️ 热衷于 Kubernetes 与云原生技术
 * 📚 开源爱好者，积极参与开源社区
 * 🌱 持续学习，不断成长
+* ✋🏻 个人博客：https://xuzhibin.blog.csdn.net/
 
-### 🌟 开源贡献
-
+参与开源项目：
 * [MaxKB](https://github.com/1Panel-dev/MaxKB) 
 
-### ✍️ 技术博客
-
-* 博客：https://xuzhibin.blog.csdn.net/
 
 ### 📫 联系我
 
