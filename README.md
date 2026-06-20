@@ -5,8 +5,8 @@
 * 🌱 持续学习，不断成长
 * ✋🏻 个人博客：https://xuzhibin.blog.csdn.net/
 
-参与开源项目：
-* [MaxKB](https://github.com/1Panel-dev/MaxKB) 
+参与开源：
+* [MaxKB](https://github.com/1Panel-dev/MaxKB) ：MaxKB is an open-source platform for building enterprise-grade agents. 强大易用的开源企业级智能体平台。
 
 
 ### 📫 联系我
